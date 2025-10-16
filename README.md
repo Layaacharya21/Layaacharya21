@@ -1,40 +1,87 @@
-# Hi there! I'm Laya Acharya 👋
+# 👋 Hi, I'm Srilaya K!
 
-### **Content Writer and Aspiring Data Scientist** 🚀
-
-[cite_start]I'm a final-year B.Tech student in **CSE (Data Science)** [cite: 15] [cite_start]who is passionate about leveraging data to solve real-world problems. [cite_start]I'm eager to explore new opportunities to apply my skills in **Python, Machine Learning, and Data Analysis**.
-
-[cite_start]I also have a strong background in content creation and SEO, blending technical insight with effective communication[cite: 6, 11, 12]. [cite_start]I strive to stay updated with advancements in the tech industry, particularly in **data security**.
+🎓 **B.Tech in Computer Science (Data Science)** | Sreyas Institute of Engineering and Technology  
+💡 Passionate about **Software Engineering**, **Data Analytics**, and **Python Development**  
+📍 Hyderabad, India  
 
 ---
 
-### **💻 My Current Focus & Tech Stack**
+## 🌟 About Me
 
-- [cite_start]**Currently Learning/Working On:** Deepening my expertise in machine learning applications and data security concepts[cite: 7, 8].
-- [cite_start]**Languages:** **Python** [cite: 42][cite_start], **SQL** [cite: 43]
-- [cite_start]**Data & Databases:** **Tableau/Power BI** [cite: 44][cite_start], **Excel** [cite: 45][cite_start], **MongoDB** [cite: 46]
-- [cite_start]**Key Concepts:** Data Science, Machine Learning, NLP, Computer Vision, SEO, Data Security [cite: 7, 8, 36, 25]
+I’m an aspiring **Software Engineer** and **Data Analyst** with a strong foundation in **Python**, **Data Science**, and **Machine Learning**.  
+I love solving real-world problems through clean, efficient code and data-driven insights.  
+My interests lie in building scalable software solutions, performing insightful data analysis, and creating tools that make technology more accessible and impactful.  
 
----
+Currently, I’m exploring:
+- Backend development using **Flask** and **Streamlit**
+- **Machine Learning** applications in automation and analytics  
+- Building intuitive **data visualization dashboards** with **Tableau** and **Power BI**
 
-### **💡 Highlighted Projects**
-
-| Project Name | Key Technologies/Skills Used | Description |
-| :--- | :--- | :--- |
-| **Resume Scorer Using NLP** | **NLP**, Python, Applicant Tracking System (ATS) Concept | [cite_start]Developed an application that evaluates resumes against job descriptions, generating a personalized score and detailed feedback for optimization[cite: 24, 25, 26]. |
-| **Automated Meeting Scheduler** | [cite_start]**Flask**, **Google Calendar API** [cite: 29] | [cite_start]A web-based tool that integrates with Google Calendar to streamline appointment bookings, featuring real-time availability checks and automated notifications[cite: 27, 28, 29]. |
-| **Zomato Sales Data Analysis** | [cite_start]**Python** (Pandas, Matplotlib) [cite: 33][cite_start], **Power BI** [cite: 33] | [cite_start]Conducted exploratory data analysis to uncover trends in customer ratings, pricing, and popular cuisines, delivering actionable, data-driven recommendations[cite: 31, 32, 34]. |
-| **Real-Time Traffic Monitoring** | [cite_start]**YOLO**, **OpenCV** [cite: 36] | [cite_start]A computer vision system developed to detect helmet and seatbelt violations in real-time from live video feeds to enhance road safety monitoring[cite: 35, 36, 37]. |
-| **Remote Testing in Avionics System** | [cite_start]**MIL-STD-1553B** Protocol[cite: 40], Simulation Tools | [cite_start]Conducted remote testing of avionics systems to validate functionality and compliance with aerospace standards[cite: 38, 39]. |
+I’m always eager to learn, collaborate, and contribute to projects that challenge my technical and creative abilities.
 
 ---
 
-### **🔗 Connect With Me**
+## 🛠️ Technical Skills
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [cite_start][Connect with me on LinkedIn](https://www.linkedin.com/in/layaacharya)  |
-| [cite_start]**Email** | srilayaacharya@gmail.com  |
+**Languages:** Python, C++, SQL, R  
+**Frameworks & Tools:** Flask, Streamlit, Git/GitHub, OpenCV, PyQt  
+**Concepts:** Data Structures & Algorithms, SDLC, OOP, Networking, OS, Machine Learning Basics  
+**Data Analytics & Visualization:** Pandas, NumPy, Tableau, Power BI, Scikit-Learn  
 
 ---
-[cite_start]**Fun Fact:** I was an awardee at the Avant Garde In-house Hackathon in 2024! [cite: 57]
+
+## 🚀 Projects
+
+### 🔹 [Traffic Violation Detection System](#)
+*Tech Stack:* Python, YOLOv8, OpenCV, EasyOCR, Streamlit  
+- Designed and deployed a real-time system for detecting helmet and seatbelt violations.  
+- Implemented automatic number plate recognition using EasyOCR and OpenCV.  
+- Built a Streamlit dashboard to visualize live statistics of traffic violations.  
+
+### 🔹 Remote Testing of Avionics Systems (DRDO Project)
+*Tech Stack:* Python, C, PyQt, Socket Programming  
+- Developed a GUI-based client for remote testing of missile subsystems.  
+- Implemented TCP socket programming for communication with a C-based hardware simulator.  
+
+### 🔹 Resume Scorer Using NLP
+*Tech Stack:* Python, NLP  
+- Created an ATS-like system that evaluates resumes against job descriptions.  
+- Generates a score and actionable feedback to improve job match quality.  
+
+### 🔹 Zomato Sales Data Analysis
+*Tech Stack:* Python, Pandas, Tableau  
+- Performed exploratory data analysis to uncover trends in ratings, pricing, and cuisines.  
+
+---
+
+## 💼 Experience
+
+**Project Intern – DRDO (Defence Research and Development Organization)**  
+📅 Feb 2025 – Jun 2025  
+- Developed a GUI testing tool for missile OBC systems using Python (PyQt) and C++.  
+- Designed socket-based communication protocols for subsystem simulation.  
+
+**SEO Analyst – GETUS INN**  
+📅 May 2024 – Aug 2024  
+- Conducted keyword research and analytics tracking to enhance website visibility.  
+- Improved lead generation through strategic SEO optimization.  
+
+---
+
+## 🏅 Certifications
+
+- **Python for Data Science** – IBM (Jan 2024)  
+- **Tableau Certification** – Tableau (Dec 2023)  
+- **Fundamentals of Digital Marketing** – Google  
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** [srilayakarampudi@gmail.com](mailto:srilayakarampudi@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/srilayak](#)  
+- **GitHub:** [github.com/srilayak](#)  
+
+---
+
+⭐ *“Turning data into decisions and ideas into code.”*  
