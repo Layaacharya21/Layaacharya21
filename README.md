@@ -31,12 +31,18 @@ I’m always eager to learn, collaborate, and contribute to projects that challe
 ---
 
 ## 🚀 Projects
+###🔹 **Sakhi – Women Safety & Support Platform**
+*Tech Stack: Python, Flask, Streamlit, Machine Learning, APIs
+- Developed a women-centric safety platform providing emergency support, awareness, and assistance tools.
+- Implemented features like quick emergency alerts, safety resources, and intelligent data handling for real-time responses.
+- Designed a user-friendly interface to ensure easy accessibility during critical situations.
+- Focused on scalability, security, and real-world usability for social impact.
 
 ### 🔹 [Traffic Violation Detection System](#)
 *Tech Stack:* Python, YOLOv8, OpenCV, EasyOCR, Streamlit  
 - Designed and deployed a real-time system for detecting helmet and seatbelt violations.  
 - Implemented automatic number plate recognition using EasyOCR and OpenCV.  
-- Built a Streamlit dashboard to visualize live statistics of traffic violations.  
+- Built a Streamlit dashboard to visualize live statistics of traffic violations. 
 
 ### 🔹 Remote Testing of Avionics Systems (DRDO Project)
 *Tech Stack:* Python, C, PyQt, Socket Programming  
