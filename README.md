@@ -32,7 +32,7 @@ I’m always eager to learn, collaborate, and contribute to projects that challe
 
 ## 🚀 Projects
 🔹 **Sakhi – Women Safety & Support Platform**
-  *Tech Stack: Python, Flask, Streamlit, Machine Learning, APIs
+Tech Stack: Python, Flask, Streamlit, Machine Learning, APIs
 - Developed a women-centric safety platform providing emergency support, awareness, and assistance tools.
 - Implemented features like quick emergency alerts, safety resources, and intelligent data handling for real-time responses.
 - Designed a user-friendly interface to ensure easy accessibility during critical situations.
