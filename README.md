@@ -38,7 +38,7 @@ Tech Stack: Python, Flask, Streamlit, Machine Learning, APIs
 - Implemented features like quick emergency alerts, safety resources, and intelligent data handling for real-time responses.
 - Designed a user-friendly interface to ensure easy accessibility during critical situations.
 - Focused on scalability, security, and real-world usability for social impact.
-Link - https://sakhi7.vercel.app/
+ - Link - https://sakhi7.vercel.app/
 
 ### 🔹 [Traffic Violation Detection System](#)
 *Tech Stack:* Python, YOLOv8, OpenCV, EasyOCR, Streamlit  
