@@ -23,10 +23,10 @@ I’m always eager to learn, collaborate, and contribute to projects that challe
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, C++, SQL, R  
+**Languages:** Python, Java, SQL, R  
 **Frameworks & Tools:** Flask, Streamlit, Git/GitHub, OpenCV, PyQt  
 **Concepts:** Data Structures & Algorithms, SDLC, OOP, Networking, OS, Machine Learning Basics  
-**Data Analytics & Visualization:** Pandas, NumPy, Tableau, Power BI, Scikit-Learn  
+**Data Analytics & Visualization:** Tableau, Power BI
 
 ---
 
@@ -55,12 +55,6 @@ Tech Stack: Python, Flask, Streamlit, Machine Learning, APIs
 *Tech Stack:* Python, NLP  
 - Created an ATS-like system that evaluates resumes against job descriptions.  
 - Generates a score and actionable feedback to improve job match quality.  
-
-### 🔹 Zomato Sales Data Analysis
-*Tech Stack:* Python, Pandas, Tableau  
-- Performed exploratory data analysis to uncover trends in ratings, pricing, and cuisines.  
-
----
 
 ## 💼 Experience
 
