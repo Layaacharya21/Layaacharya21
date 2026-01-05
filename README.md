@@ -1,89 +1,68 @@
-# 👋 Hi, I'm Srilaya K!
+# Hi, I'm Srilaya K!
 
-🎓 **B.Tech in Computer Science (Data Science)** | Sreyas Institute of Engineering and Technology  
-💡 Passionate about **Software Engineering**, **Data Analytics**, and **Python Development**  
-📍 Hyderabad, India  
+I am a **B.Tech (Data Science)** student at Sreyas Institute of Engineering and Technology with a **9.0 CGPA**. I am passionate about building technology that solves real-world problems, from AI-powered safety tools to mission-critical defense systems.
 
 ---
 
-## 🌟 About Me
+### Technical Skills
 
-I’m an aspiring **Software Engineer** and **Data Analyst** with a strong foundation in **Python**, **Data Science**, and **Machine Learning**.  
-I love solving real-world problems through clean, efficient code and data-driven insights.  
-My interests lie in building scalable software solutions, performing insightful data analysis, and creating tools that make technology more accessible and impactful.  
+* 
+**Languages:** Python, SQL 
 
-Currently, I’m exploring:
-- Backend development using **Flask** and **Streamlit**
-- **Machine Learning** applications in automation and analytics  
-- Building intuitive **data visualization dashboards** with **Tableau** and **Power BI**
 
-I’m always eager to learn, collaborate, and contribute to projects that challenge my technical and creative abilities.
+* 
+**AI & Data:** GenAI (LangChain), Machine Learning
 
----
 
-## 🛠️ Technical Skills
+* 
+**Visualization:** Tableau, Excel 
 
-**Languages:** Python, Java, SQL, R  
-**Frameworks & Tools:** Flask, Streamlit, Git/GitHub, OpenCV, PyQt  
-**Concepts:** Data Structures & Algorithms, SDLC, OOP, Networking, OS, Machine Learning Basics  
-**Data Analytics & Visualization:** Tableau, Power BI
+
+* 
+**Developer Tools:** Git/GitHub, MongoDB, MySQL, Streamlit 
+
+
 
 ---
 
-## 🚀 Projects
-🔹 **Sakhi – Women Safety & Support Platform**
+### 🚀 Featured Projects
 
-Tech Stack: Python, Flask, Streamlit, Machine Learning, APIs
-- Developed a women-centric safety platform providing emergency support, awareness, and assistance tools.
-- Implemented features like quick emergency alerts, safety resources, and intelligent data handling for real-time responses.
-- Designed a user-friendly interface to ensure easy accessibility during critical situations.
-- Focused on scalability, security, and real-world usability for social impact.
- - Link - https://sakhi7.vercel.app/
+* 
+**[Sakhi](https://sakhi7.vercel.app/):** An AI-powered women's safety app featuring GPS tracking, SMS alerts, and an NLP chatbot.
 
-### 🔹 [Traffic Violation Detection System](#)
-*Tech Stack:* Python, YOLOv8, OpenCV, EasyOCR, Streamlit  
-- Designed and deployed a real-time system for detecting helmet and seatbelt violations.  
-- Implemented automatic number plate recognition using EasyOCR and OpenCV.  
-- Built a Streamlit dashboard to visualize live statistics of traffic violations. 
 
-### 🔹 Remote Testing of Avionics Systems (DRDO Project)
-*Tech Stack:* Python, C, PyQt, Socket Programming  
-- Developed a GUI-based client for remote testing of missile subsystems.  
-- Implemented TCP socket programming for communication with a C-based hardware simulator.  
+* 
+**GenAI Assistant:** A RAG-based application using LangChain to answer questions from uploaded documents.
 
-### 🔹 Resume Scorer Using NLP
-*Tech Stack:* Python, NLP  
-- Created an ATS-like system that evaluates resumes against job descriptions.  
-- Generates a score and actionable feedback to improve job match quality.  
 
-## 💼 Experience
+* 
+**Traffic Violation System:** Real-time helmet and seatbelt detection with automated license plate recognition.
 
-**Project Intern – DRDO (Defence Research and Development Organization)**  
-📅 Feb 2025 – Jun 2025  
-- Developed a GUI testing tool for missile OBC systems using Python (PyQt) and C++.  
-- Designed socket-based communication protocols for subsystem simulation.  
 
-**SEO Analyst – GETUS INN**  
-📅 May 2024 – Aug 2024  
-- Conducted keyword research and analytics tracking to enhance website visibility.  
-- Improved lead generation through strategic SEO optimization.  
 
 ---
 
-## 🏅 Certifications
+### 💼 Experience
 
-- **Python for Data Science** – IBM (Jan 2024)  
-- **Tableau Certification** – Tableau (Dec 2023)  
-- **Fundamentals of Digital Marketing** – Google  
+* 
+**Project Intern @ DRDO:** Developing GUI testing tools for missile systems using Python (PyQt) and C++.
 
----
 
-## 📫 Connect with Me
+* 
+**SEO Analyst @ GETUS INN:** Optimised web traffic and lead generation through data-driven keyword research.
 
-- **Email:** [srilayakarampudi@gmail.com](mailto:srilayakarampudi@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/srilayak](#)  
-- **GitHub:** [github.com/srilayak](#)  
+
 
 ---
 
-⭐ *“Turning data into decisions and ideas into code.”*  
+### 📫 Let's Connect!
+
+* 
+**Email:** [srilayakarampudi@gmail.com]
+
+
+* **Links:** https://www.linkedin.com/in/layaacharya/
+
+---
+
+**Would you like me to add a section for your current learning goals or specific job roles you're targeting?**
